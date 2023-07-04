@@ -16,6 +16,8 @@ Welcome to the Seekers repository! We are a dedicated group of individuals who c
 
 Seekers is an interactive game that combines the thrill of gameplay with the educational aspect of programming. By writing Python-based AI algorithms, players can participate in exciting battles and engage in strategic decision-making. The game offers a stimulating environment for honing programming skills, problem-solving abilities, and algorithmic thinking.
 
+![Seekers Game Preview](images/Seekers.png)
+
 ## Features
 
 + Engaging and immersive gameplay experience
@@ -48,35 +50,6 @@ pip install -r requirements.txt
 
 4. Dive into the game concept by visiting the [Game Concept](https://github.com/seekers-dev/seekers-py/wiki/Game-Concept) page.
 5. Explore the codebase, contribute to ongoing development efforts, or create your own AI strategies.
-
-## Contributing
-
-We welcome contributions from the community to make Seekers even better! To contribute, follow these steps:
-
-Fork this repository and clone it to your local machine.
-
-Create a new branch for your feature or bug fix:
-
-```
-git checkout -b my-feature
-```
-
-Make your modifications and ensure they adhere to the project's coding guidelines.
-
-Commit your changes and push them to your forked repository:
-
-```
-git commit -m "My feature"
-git push origin my-feature
-```
-
-Open a pull request to our develop branch, detailing the changes you made and their significance.
-
-Our team will review your pull request and provide feedback.
-
-## License
-
-This project is licensed under the GPT-3.0 License. Feel free to use, modify, and distribute the codebase for educational or personal purposes.
 
 ## Contact
 
