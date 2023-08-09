@@ -16,7 +16,7 @@ Welcome to the Seekers repository! We are a dedicated group of individuals who c
 
 Seekers is an interactive game that combines the thrill of gameplay with the educational aspect of programming. By writing Python-based AI algorithms, players can participate in exciting battles and engage in strategic decision-making. The game offers a stimulating environment for honing programming skills, problem-solving abilities, and algorithmic thinking.
 
-![Seekers Game Preview](Seekers.png)
+![Seekers Game Preview](https://raw.githubusercontent.com/seekers-dev/.github/main/profile/Seekers.png)
 
 ## Features
 
