@@ -11,11 +11,9 @@ Welcome to the Seekers repository! We are a dedicated group of individuals who c
 
 ## About Seekers
 
-<img alt="Seekers Game Preview" src="https://raw.githubusercontent.com/seekers-dev/.github/main/profile/Seekers.png" align="right" width=30%>
+<img alt="Seekers Game Preview" src="https://raw.githubusercontent.com/seekers-dev/.github/main/profile/Seekers.png" align="right" width=50%>
 
 Seekers is an interactive game that combines the thrill of gameplay with the educational aspect of programming. By writing Python-based AI algorithms, players can participate in exciting battles and engage in strategic decision-making. The game offers a stimulating environment for honing programming skills, problem-solving abilities, and algorithmic thinking.
-
-## Features
 
 + Engaging and immersive gameplay experience
 + Educational focus on programming concepts and AI algorithm implementation
@@ -25,8 +23,6 @@ Seekers is an interactive game that combines the thrill of gameplay with the edu
 
 ## Contact
 
-If you have any questions, suggestions, or would like to connect with us, you can reach us through the following channel:
-
-+ Discord: [Seekers Official Server](https://discord.gg/gRaTCgDS9b)
+Join our [Official Discord Server](https://discord.gg/gRaTCgDS9b)! If you have any questions, suggestions, or would like to connect with us, you can reach us through discord.
 
 We look forward to hearing from you and hope you enjoy your experience with Seekers!
