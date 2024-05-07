@@ -1,3 +1,3 @@
-<h1 align="center">Github Page</h1>
+<h1 align="center">Github Organisation Page</h1>
 
-Organisation profile page.
+<p>Organisation profile page.</p>

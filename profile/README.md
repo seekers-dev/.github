@@ -1,12 +1,9 @@
-<h1 align=center> Hello there 👋</h1>
+<h1 align=center>Welcome to Seekers!</h1>
 
-<p align=center>
-    <img src="https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />
-    <img src="https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white">
-</p>
+<div align=center>
+    <img src="https://skillicons.dev/icons?i=githubactions,maven,gradle,linux,java,kotlin,python,pytorch,tensorflow" alt="Skill Icons" />
+    <p>Learn to code with games.</p>
+</div>
 
 ## Introduction
 
@@ -14,9 +11,9 @@ Welcome to the Seekers repository! We are a dedicated group of individuals who c
 
 ## About Seekers
 
-Seekers is an interactive game that combines the thrill of gameplay with the educational aspect of programming. By writing Python-based AI algorithms, players can participate in exciting battles and engage in strategic decision-making. The game offers a stimulating environment for honing programming skills, problem-solving abilities, and algorithmic thinking.
+<img alt="Seekers Game Preview" src="https://raw.githubusercontent.com/seekers-dev/.github/main/profile/Seekers.png" align="right" width=30%>
 
-![Seekers Game Preview](https://raw.githubusercontent.com/seekers-dev/.github/main/profile/Seekers.png)
+Seekers is an interactive game that combines the thrill of gameplay with the educational aspect of programming. By writing Python-based AI algorithms, players can participate in exciting battles and engage in strategic decision-making. The game offers a stimulating environment for honing programming skills, problem-solving abilities, and algorithmic thinking.
 
 ## Features
 
